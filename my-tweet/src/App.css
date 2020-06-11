@@ -1,0 +1,30 @@
+/* h1 {
+  float: left;
+} */
+body {
+  padding-left: 30px;
+}
+.feed {
+  height: auto;
+  width: auto;
+  border: 6px solid blue;
+  margin-left: 140px;
+  margin-right: 100px;
+  margin-top: 30px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+.image {
+  margin-top: 10px;
+  /* margin-left: 10px; */
+  /* margin-bottom: 20px; */
+}
+img {
+  height: 50px;
+  width: 70px;
+  float: left;
+  /* margin: 20px; */
+}
+.feedname {
+  padding-bottom: 20px;
+}
